@@ -1,0 +1,4 @@
+SecureVault Confidential Document
+Student: Nelius
+Unit: BIT4138 Advanced Cryptography
+Content: This file is protected using AES-256 encryption.
